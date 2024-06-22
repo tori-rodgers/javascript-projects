@@ -35,3 +35,5 @@ console.log("launchReady = ", launchReady);
 // } else {
 //    console.log('Launch scrubbed.');
 // }
+
+//This looks correct to me because launchReady was changed to true
